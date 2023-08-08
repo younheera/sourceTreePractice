@@ -2,7 +2,7 @@
 public class Wheesung {
 
 	public static void main(String[] args) {
-		System.out.println("ÀÌ°ÍÀº ÀÌÈÖ¼º Å¬·¡½º");
+		System.out.println("ê¸€ìê°€ ê¹¨ì¡Œì–´");
 
 	}
 
