@@ -1,4 +1,4 @@
 
 public class Hyunseul {
-ssssss
+	String str = "ssssss";
 }
